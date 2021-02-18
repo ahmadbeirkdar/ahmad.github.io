@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
+# theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -24,10 +24,10 @@ description              : "Personal Site | Blog | Random Stuff"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ahmadbeirkdar/ahmad.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/cpp.jpeg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -52,7 +52,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
+search                   : true
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Ahmad Beirkdar"
   avatar           : "https://pbs.twimg.com/profile_images/1358829209272127493/H-Yllntg_400x400.jpg"
-  bio              : "Software Engineer. \n Modern C++ is my love. \nSystems, libraries, & cryptography are my interests.\n Mostly C++ & Rust stuff. I love programming languages, reading, maths, academia, & Star Trek."
+  bio              : "Software Engineer. \n Modern C++ is my love.\n Mostly C++ & Rust stuff. I love programming languages, reading, maths, academia, & Star Trek."
   location         : "Toronto, Canada"
   email            : "ahmadb@protonmail.com"
   links:
@@ -268,6 +268,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+      show_date: true
