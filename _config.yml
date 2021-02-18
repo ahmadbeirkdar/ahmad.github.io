@@ -110,7 +110,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Ahmadbeir"
     - label: "Facebook"
-      icon: "https://discord.com/assets/28174a34e77bb5e5310ced9f95cb480b.png"
+      icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
