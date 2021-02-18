@@ -1,3 +1,10 @@
+---
+author_profile: true
+comments: true
+share: true
+related: true
+show_date: true
+---
 ## Introduction:
 Hi! My name is Ahmad Beirkdar, currently I am pursing an undergrad in Computer Science & Computer Engineering. Currently based in Toronto, Canada. 
 
