@@ -16,7 +16,7 @@ Note: Another blog post will be done on a later date for the CE curriculum
 
 [Computer Science Section](#computer-science)
 
-[Other Resources Section](#Other-Resources)
+[Other Resources Section](#other-resources)
 
 ## Computer Science
 
@@ -93,7 +93,6 @@ Note: Another blog post will be done on a later date for the CE curriculum
     * Review:
         * The course slides made me feel like I am living in the 90s. The content was not up to standards compared to OS courses I have taken. If you want to learn about OSs check out the book mentioned.
       
-
 
 ## Other Resources
 * A wonderful Modern C++ course by Kate Gregory(An amazing instructor) [Link](https://www.pluralsight.com/courses/cplusplus-fundamentals-c17)
