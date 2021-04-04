@@ -14,9 +14,9 @@ So, to answer the question. I will be using the core courses and required course
 
 Note: Another blog post will be done on a later date for the CE curriculum 
 
-[Computer Science Section](#Computer-Science)
+[Computer Science Section](#computer-science)
 
-[Other Resources Section](#other-resources)
+[Other Resources Section](#Other-Resources)
 
 ## Computer Science
 
