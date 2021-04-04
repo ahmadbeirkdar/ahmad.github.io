@@ -100,3 +100,5 @@ Note: Another blog post will be done on a later date for the CE curriculum
 * Project Ideas (Project based learning) - [click here](https://github.com/tuvtran/project-based-learning)
 
 Feel free to to DM me on Twitter or Discord if you want to add something or a resource!
+
+If you also want to add more courses and your experiences please let me know.
