@@ -32,7 +32,7 @@ Note: Another blog post will be done on a later date for the CE curriculum
             * Make a game! = [click here](https://realpython.com/pygame-a-primer/)
             * More things @ [realpython.com](https://realpython.com/)
     * Review:
-        * The course was a well structured course, content was pretty good, and the instructors teaching it were amazing.
+        * The course was a well structured course, content was pretty good, and the instructors teaching it was amazing. I later reached out and did research with him over 2020 summer!
 
 * ### CPS213 - Computer Organization I
     * Description:
