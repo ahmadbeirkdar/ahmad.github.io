@@ -4,7 +4,6 @@ comments: true
 share: true
 related: true
 show_date: true
-classes: wide
 ---
 ## Introduction & Why?
 I've always wanted to make a post on this. I have gotten asked the same question multiple times here by numours Ryerson students in CE(Computer Engineering) or CS(Computer Science). How do I enrich my learning and to apply my learning? 
