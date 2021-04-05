@@ -6,7 +6,7 @@ related: true
 show_date: true
 ---
 ## Introduction & Why?
-I've always wanted to make a post on this. I have gotten asked the same question multiple times here by numours Ryerson students in CE(Computer Engineering) or CS(Computer Science). How do I enrich my learning and to apply my learning? 
+I've always wanted to make a post on this. I have gotten asked the same question multiple times here by numerous Ryerson students in CE(Computer Engineering) or CS(Computer Science). How do I enrich my learning and to apply my learning? 
 
 It is a tough question to answer. This is because of how our curriculum is structured, the content, and the instructors. 
 
