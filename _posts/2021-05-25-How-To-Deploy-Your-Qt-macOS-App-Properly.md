@@ -23,7 +23,7 @@ if(APPLE)
     set(BUNDLE MACOSX_BUNDLE)
 endif()
 
-add_executable(Student_Management_System ${BUNDLE} main.cpp)
+add_executable(project_name ${BUNDLE} main.cpp)
 ```
 
 Now that you can compile and get your .app, you need to deploy all the Qt dependencies, and other dependencies into the bundle. What's wonderful is Qt does this for you :), using macdeployqt! Like so:
