@@ -13,7 +13,7 @@ I have automated it all with a simple python script which will be posted at the 
 Please note, this assumes you have a valid developer account with Apple.
 
 # Signing and Packaging your Application:
-First off we need to deploy all the shared libraries, sign and package the app.
+First off, we need to deploy all the shared libraries, sign and package the app.
 Before hand, you need to tell Cmake to package your executable into a .app. To do so simply do the following:
 
 ```cmake
