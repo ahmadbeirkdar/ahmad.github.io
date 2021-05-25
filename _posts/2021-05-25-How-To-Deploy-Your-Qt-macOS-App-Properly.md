@@ -1,5 +1,5 @@
 ---
-title: How To Deploy your Qt macOS App Properly
+title: How To Deploy your C++ Qt macOS App Properly
 author_profile: true
 comments: true
 share: true
